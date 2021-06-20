@@ -67,8 +67,13 @@ module.exports = {
           "750": "hsl(214, 17%, 32%)",
           ...defaultTheme.colors.gray
         },
-        link: "#fbf3f3"
+        link: "#fbf3f3",
+        gradients:{
+          "start" : "#076585",
+          "end" : "#fff"
+        }
       },
+     
     },
   },
 
